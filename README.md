@@ -1,9 +1,5 @@
-### Hi there 👋 
-
- 😄 I am Estelle!
- 
- 🌱 I’m currently learning Java Spring.  
- 
+### Hi there 😄 I am Estelle 👋
+ 🌱 I’m currently learning Java Spring.   
  📫 email : iamestelleyu@gmail.com 
  
  
