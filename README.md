@@ -5,9 +5,6 @@
 <br>Hi, I'm Estelle!! 👋 </br>
 
 <br>I see myself as a fast learner and enthusiastic student. 
-<br>Korean is my native language. And I am also fluent in English and Japanese.
-<br>So far I am not confident in any programming language, 
-<br>but I want Python (or any other dev. language) to be my first language someday.😎 
 <br>Some experience in data analysis as a M.D. graduate led me on the path of a developer. 
 <br>I painfully studied R by myself for projects and the paper. (Google was my tutor, of course)
 <br>But, thanks to Dr. Charles's courses from freeCodeCamp I got on my way to development🚶‍♀️ 
