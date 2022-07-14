@@ -20,6 +20,7 @@
 <br></br>
 <br></br>
 <br>📫Contact me📫
-<br>![Velog icon](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white) ![Instagram icon](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white) ![Gmail icon](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white) 
+<br>
+<a href="https://velog.io/@hklog" target="_blank">![Velog icon](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)</a> <a href="https://www.instagram.com/Estelle6am" target="_blank">![Instagram icon](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)</a> <a href="mailto:iamestelleyu@gmail.com">![Gmail icon](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)</a>
 <br>![LeetCode icon](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)</br> 
 </div>
