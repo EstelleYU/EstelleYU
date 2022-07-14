@@ -15,7 +15,7 @@
 <br></br>
 <br>🚀🚀Tech Stack🚀🚀 </br>
 <br><a href="https://codestates.com" target="_blank">CodeStates</a> 39th Back-end course</br>
-<a href="[https://velog.io/@hklog](https://www.freecodecamp.org/EstelleYU)" target="_blank">![freeCodeCamp icon](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freeCodeCamp&logoColor=white)</br>
+<a href="https://www.freecodecamp.org/EstelleYU" target="_blank">![freeCodeCamp icon](https://img.shields.io/badge/freeCodeCamp-0A0A23?style=flat-square&logo=freeCodeCamp&logoColor=white)</br>
 
 ![R icon](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white) ![Python icon](https://img.shields.io/badge/Python-3776AB?<br>style=flat-square&logo=Python&logoColor=white) ![Spring icon](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white) ![SpringBoot icon](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white) ![Git icon](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) 
 <br>![JAVASCRIPT icon](https://img.shields.io/badge/JAVASCRIPT-F7DF1E?style=flat-square&logo=JAVASCRIPT&logoColor=black) ![MYSQL icon](https://img.shields.io/badge/MYSQL-4479A1?style=flat-square&logo=MYSQL&logoColor=white) ![SQLite icon](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white) ![JAVA icon](https://img.shields.io/badge/JAVA-2F2625?style=flat-square&logo=CoffeeScript&logoColor=white)</br>
