@@ -2,14 +2,14 @@
 
 ![header](https://github.com/EstelleYU/EstelleYU/blob/main/Bean.jpg?raw=true)
 
-<br>Hi, I'm Estelle!! 👋 </br>
-
-<br>I see myself as a fast learner and enthusiastic student. 
+<br>Hello world, I'm Estelle!! 👋👋 </br>
 <br>Some experience in data analysis as a M.D. graduate led me on the path of a developer. 
-<br>I painfully studied R by myself for projects and the paper. (Google was my tutor, of course)
-<br>But, thanks to Dr. Charles's courses from freeCodeCamp I got on my way to development🚶‍♀️ 
+<br>At graduate school, I learned lots of statistical methods for big data using R. 
+<br>Some python courses from freeCodeCamp(thanks to Dr. Chuck!), I got on my way to dev. 
 <br>I’m currently studying JAVA and Spring at CodeStates bootcamp(since April 2022). 
-<br>I want to be a entry level back-end developer at the end of this year.🙌 </br>
+<br>Now I can say, Python was easy breezy compare with JAVA. 😂😂
+<br>However, I see myself as a fast learner and enthusiastic student! 🙌 
+<br>So I hope to be a junior level back-end developer at the end of this year. </br>
 <br></br>
 <br>✨</br>
 <br></br>
@@ -24,5 +24,5 @@
 <br></br>
 <br>📫CONTACT ME📫</br>
 <br> <a href="https://velog.io/@hklog" target="_blank">![Velog icon](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)</a> <a href="https://www.instagram.com/Estelle6am" target="_blank">![Instagram icon](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white)</a> <a href="mailto:iamestelleyu@gmail.com">![Gmail icon](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)</a>
-<br>![LeetCode icon](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)</br> 
+<br><a href="https://leetcode.com/iamestelleyu/" target="_blank">![LeetCode icon](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)</a></br> 
 </div>
