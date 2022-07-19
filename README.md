@@ -5,7 +5,7 @@
 <br>Hello world, I'm Estelle!! 👋👋 </br>
 <br>Some experience in data analysis as a M.D. graduate led me on the path of a developer. 
 <br>At graduate school, I learned lots of statistical methods for big data using R. 
-<br>Some python courses from freeCodeCamp(thanks to Dr. Chuck!), I got on my way to dev. 
+<br>Dr. Chuck's python courses from freeCodeCamp, I got on my way to dev. 
 <br>I’m currently studying JAVA and Spring at CodeStates bootcamp(since April 2022). 
 <br>Now I can say, Python was easy breezy compare with JAVA. 😂😂
 <br>However, I see myself as a fast learner and enthusiastic student! 🙌 
