@@ -7,8 +7,7 @@
 <br>At graduate school, I learned lots of statistical methods for big data using R. 
 <br>Dr. Chuck's python courses from freeCodeCamp, I got on my way to dev. 
 <br>I’m currently studying JAVA and Spring at CodeStates bootcamp(since April 2022). 
-<br>Now I can say, Python was easy breezy compare with JAVA. 😂😂
-<br>However, I see myself as a fast learner and enthusiastic student! 🙌 
+<br>I see myself as a fast learner and enthusiastic student! 🙌 
 <br>So I hope to be a junior level back-end developer at the end of this year. </br>
 <br></br>
 <br>✨</br>
