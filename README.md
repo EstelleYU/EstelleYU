@@ -2,8 +2,6 @@
 
 ![header](https://github.com/EstelleYU/EstelleYU/blob/main/Bean.jpg?raw=true)
 
-![anigif](https://user-images.githubusercontent.com/76886589/195051770-6c55f0af-2212-41f6-b014-0325b18c321d.gif?raw=true)
-
 <br>Hello world, I'm Estelle!! 👋👋 </br>
 <br>Some experience in data analysis as a M.D. graduate led me on the path of a developer. 
 <br>At graduate school, I learned lots of statistical methods for big data using R. 
