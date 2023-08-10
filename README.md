@@ -41,5 +41,5 @@
 <br>📫CONTACT ME📫</br>
 <br><a href="https://velog.io/@hklog" target="_blank">![Velog icon](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white)</a> 
 <a href="mailto:iamestelleyu@gmail.com">![Gmail icon](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)</a>
-<a href="https://leetcode.com/iamestelleyu/" target="_blank">![LeetCode icon](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=white)</a></br> 
+<br></br>
 </div>
